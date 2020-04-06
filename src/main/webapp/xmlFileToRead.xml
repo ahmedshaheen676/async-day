@@ -1,0 +1,28 @@
+<table>
+    <tbody>
+        <tr>
+            <th>name</th>
+            <th>age</th>
+            <th>job</th>
+        </tr>
+        <tr>
+            <td>ahmed</td>
+            <td>27</td>
+            <td>ITI student</td>
+        </tr>
+        <tr>
+            <td>AMR</td>
+            <td>26</td>
+            <td>ITI student</td>
+        </tr>
+        <tr>
+            <td>Shaheen</td>
+            <td>27</td>
+            <td>ITI student</td>
+        </tr><tr>
+            <td>Amin</td>
+            <td>27</td>
+            <td>ITI student</td>
+        </tr>
+    </tbody>
+</table>
